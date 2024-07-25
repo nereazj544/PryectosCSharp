@@ -12,3 +12,4 @@ C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.
 C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\BoolOperadores.pdb
 C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\BoolOperadores.genruntimeconfig.cache
 C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\ref\BoolOperadores.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\BoolOperadores.sourcelink.json
