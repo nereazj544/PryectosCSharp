@@ -1,0 +1,14 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\bin\Debug\net8.0\BoolOperadores.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\bin\Debug\net8.0\BoolOperadores.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\bin\Debug\net8.0\BoolOperadores.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\bin\Debug\net8.0\BoolOperadores.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\bin\Debug\net8.0\BoolOperadores.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\BoolOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\BoolOperadores.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\BoolOperadores.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\BoolOperadores.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\BoolOperadores.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\refint\BoolOperadores.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\BoolOperadores.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\BoolOperadores.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BoolOperadores\obj\Debug\net8.0\ref\BoolOperadores.dll
