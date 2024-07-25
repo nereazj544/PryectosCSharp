@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\bin\Debug\net8.0\FLUJO.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\bin\Debug\net8.0\FLUJO.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\bin\Debug\net8.0\FLUJO.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\bin\Debug\net8.0\FLUJO.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\bin\Debug\net8.0\FLUJO.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\obj\Debug\net8.0\FLUJO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\obj\Debug\net8.0\FLUJO.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\obj\Debug\net8.0\FLUJO.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\obj\Debug\net8.0\FLUJO.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\obj\Debug\net8.0\FLUJO.sourcelink.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\obj\Debug\net8.0\FLUJO.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\obj\Debug\net8.0\refint\FLUJO.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\obj\Debug\net8.0\FLUJO.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\obj\Debug\net8.0\FLUJO.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FLUJO\obj\Debug\net8.0\ref\FLUJO.dll

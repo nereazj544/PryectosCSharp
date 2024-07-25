@@ -69,6 +69,16 @@ Los proyectos realizados en este PROYECTOSC# estan sacados de: _Aprende C# en un
 - El proyecto con el nombre: _``BUCLES``_ trata de los siguientes puntos: 
     - OBJETIVO 7: BUCLES
 
+<h3>Segunda parte</h3>
+
+- El proyecto con el nombre: _``[nombre]``_ trata de los siguientes puntos: 
+    - OBJETIVO 9: PROGRAMACION ORIENTADA A OBJETOS (BASICA)
+
+
+
+
+# CARPETA: PROJECT
+<h3>PRIMERA PARTE</h3>
 - El proyecto con el nombre: _``PROYECTO1-CALCULADORA``_ trata de los siguientes puntos: 
     - PROYECTO 1: CALCULADORA
 
@@ -78,10 +88,6 @@ Los proyectos realizados en este PROYECTOSC# estan sacados de: _Aprende C# en un
 - El proyecto con el nombre: _``PROYECTO2-CALCULADORAEV``_ trata de los siguientes puntos: 
     - PROYECTO 2: CALCULADORA EVOLUTIVA
 
-<h3>Segunda parte</h3>
-
-- El proyecto con el nombre: _``[nombre]``_ trata de los siguientes puntos: 
-    - OBJETIVO 9: PROGRAMACION ORIENTADA A OBJETOS (BASICA)
-
+<h3>SEGUNDA PARTE</h3>
 - El proyecto con el nombre: _``PROYECTO3-BIBLIOTECA``_ trata de los siguientes puntos: 
     - PROYECTO 3: BIBLIOTECA

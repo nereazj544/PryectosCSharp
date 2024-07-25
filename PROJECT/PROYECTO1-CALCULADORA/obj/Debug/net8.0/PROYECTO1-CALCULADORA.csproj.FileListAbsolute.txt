@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\bin\Debug\net8.0\PROYECTO1-CALCULADORA.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\bin\Debug\net8.0\PROYECTO1-CALCULADORA.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\bin\Debug\net8.0\PROYECTO1-CALCULADORA.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\bin\Debug\net8.0\PROYECTO1-CALCULADORA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\bin\Debug\net8.0\PROYECTO1-CALCULADORA.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\obj\Debug\net8.0\PROYECTO1-CALCULADORA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\obj\Debug\net8.0\PROYECTO1-CALCULADORA.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\obj\Debug\net8.0\PROYECTO1-CALCULADORA.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\obj\Debug\net8.0\PROYECTO1-CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\obj\Debug\net8.0\PROYECTO1-CALCULADORA.sourcelink.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\obj\Debug\net8.0\PROYECTO1-CALCULADORA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\obj\Debug\net8.0\refint\PROYECTO1-CALCULADORA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\obj\Debug\net8.0\PROYECTO1-CALCULADORA.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\obj\Debug\net8.0\PROYECTO1-CALCULADORA.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO1-CALCULADORA\obj\Debug\net8.0\ref\PROYECTO1-CALCULADORA.dll

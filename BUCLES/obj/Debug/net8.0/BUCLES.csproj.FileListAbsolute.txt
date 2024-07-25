@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\bin\Debug\net8.0\BUCLES.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\bin\Debug\net8.0\BUCLES.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\bin\Debug\net8.0\BUCLES.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\bin\Debug\net8.0\BUCLES.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\bin\Debug\net8.0\BUCLES.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\obj\Debug\net8.0\BUCLES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\obj\Debug\net8.0\BUCLES.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\obj\Debug\net8.0\BUCLES.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\obj\Debug\net8.0\BUCLES.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\obj\Debug\net8.0\BUCLES.sourcelink.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\obj\Debug\net8.0\BUCLES.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\obj\Debug\net8.0\refint\BUCLES.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\obj\Debug\net8.0\BUCLES.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\obj\Debug\net8.0\BUCLES.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\BUCLES\obj\Debug\net8.0\ref\BUCLES.dll
