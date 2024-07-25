@@ -14,7 +14,7 @@ Un programa es un conjunto de instruciones o pasos a seguir que se le dan a un o
 <table align="center">
   <tr border="none">
   <td width="50%" align="center">
-  <h3><img scr="">Flujo de un programa</h3>
+  <h3>Flujo de un programa</h3>
   <p>1 - Recibe los datos (normalmente introducidos por el user)</p>
   <p>2 - Ejecuta las instruciones </p>
   <p>2 - Obtine resultados </p>
@@ -68,6 +68,9 @@ Los proyectos realizados en este PROYECTOSC# estan sacados de: _Aprende C# en un
 
 - El proyecto con el nombre: _``BUCLES``_ trata de los siguientes puntos: 
     - OBJETIVO 7: BUCLES
+
+- El proyecto con el nombre: _``FUNCIONES``_ trata de los siguientes puntos: 
+    - OBJETIVO 8: FUNCIONES
 
 <h3>Segunda parte</h3>
 
