@@ -49,16 +49,39 @@ Un programa es un conjunto de instruciones o pasos a seguir que se le dan a un o
 
 # Contenidos de los proyectos
 Los proyectos realizados en este PROYECTOSC# estan sacados de: _Aprende C# en un fin de semana._
+<h3>Primera parte</h3>
 - El proyecto con el nombre: _``proyecto1``_ trata de los siguientes puntos: 
     - OBJETIVO 1: Variables y constantes
     - OBJETIVO 2: Manejo de mensjaes por pantalla
-<br></br>
+
 - El proyecto con el nombre: _``BoolOperadores``_ trata de los siguientes puntos: 
     - OBJETIVO 3: TIPOS DE DATOS BASICOS Y OPERADORES
-<br></br>
+
 - El proyecto con el nombre: _``CadenaTexto``_ trata de los siguientes puntos: 
     - OBJETIVO 4: CADENAS DE TEXTO
-<br></br>
-- El proyecto con el nombre: _``[NOMBRE A COMPLETAR]``_ trata de los siguientes puntos: 
-    - OBJETIVO : [TITULO DEL CAPITULO DENTRO DEL LIBRO]
-<br></br>
+
+- El proyecto con el nombre: _``Colecciones``_ trata de los siguientes puntos: 
+    - OBJETIVO 5: COLECCIONES
+
+- El proyecto con el nombre: _``FLUJO``_ trata de los siguientes puntos: 
+    - OBJETIVO 6: CONTROL FLUJO DE UN PROGRAMA
+
+- El proyecto con el nombre: _``BUCLES``_ trata de los siguientes puntos: 
+    - OBJETIVO 7: BUCLES
+
+- El proyecto con el nombre: _``PROYECTO1-CALCULADORA``_ trata de los siguientes puntos: 
+    - PROYECTO 1: CALCULADORA
+
+- El proyecto con el nombre: _``PROYECTO8-FUNCIONES``_ trata de los siguientes puntos: 
+    - PROYECTO 8: FUNCIONES
+
+- El proyecto con el nombre: _``PROYECTO2-CALCULADORAEV``_ trata de los siguientes puntos: 
+    - PROYECTO 2: CALCULADORA EVOLUTIVA
+
+<h3>Segunda parte</h3>
+
+- El proyecto con el nombre: _``[nombre]``_ trata de los siguientes puntos: 
+    - OBJETIVO 9: PROGRAMACION ORIENTADA A OBJETOS (BASICA)
+
+- El proyecto con el nombre: _``PROYECTO3-BIBLIOTECA``_ trata de los siguientes puntos: 
+    - PROYECTO 3: BIBLIOTECA

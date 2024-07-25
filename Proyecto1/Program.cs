@@ -4,18 +4,21 @@ class Program
 {
     static void Main(string[] args)
     {
+
+        Console.WriteLine("OBJETIVO 1: VARIABLE Y COSTANTES \n");
         string mensaje = "\n #### ENTER PARA CONTINUAR #### \n";
         //Manejo de mensajes por pantalla: usando variables
 
         Console.WriteLine("MENSAJE POR CONSOLA USANDO VARIABLES: \n");
 
-        string nombre = "Neo"; //Variable
-        int edad = 19;
+        string nombre = "Neo"; //Variable - texto
+        int edad = 19; //Variable - numero
         Console.WriteLine("CONCATENADO: Hola, mi nombre es: " + nombre + ".\n Actualmente tengo " + edad + " años"); //Concatenando variables
         Console.WriteLine("SystemOutFormateado: Hola, mi nombre es {0}. Actualmente tengo {1} años", nombre, edad); //como si fuera un array(raro)
         Console.WriteLine("SystemOutFormateado: Hola, mi nombre es \"{0}\" ", nombre); //como si fuera un array(raro) + añadir comillas
 
         // Leer informacion desde teclado y mostrarla
+        Console.WriteLine("OBJETIVO 2: MANEJO DE MENSAJES POR PANTALLA \n");
         Console.WriteLine("\nMENSAJE POR CONSOLA USANDO TECLADO PARA INTRODUCIR DATOS: \n");
         
         Console.WriteLine("\n ¿Cual es tu nombre?");

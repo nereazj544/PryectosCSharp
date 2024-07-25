@@ -5,6 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("OBJETIVO 3: TIPOS DE DATOS BASICOS Y OPERADORES \n");
         string mensaje = "\n #### ENTER PARA CONTINUAR #### \n";
 
         // OPERADORES LOGICOS
@@ -44,14 +45,14 @@ class Program
         Console.WriteLine("El operador NOT se representa con \"!\" \n");
         Console.WriteLine("NOT TRUE = " + (!VT));
         Console.WriteLine("NOT FALSE= " + (!VF));
-        
+
         Console.Write(mensaje);
         Console.ReadLine();
-   
+
         Console.WriteLine("\n#### OPERADORES LOGICOS: \"RELACIONELAES\" ####\n");
         Console.Write("Numero 1 (entero): ");
         int num1 = Convert.ToInt32(System.Console.ReadLine());
-        
+
         Console.Write("> Se ha establecido el numero: " + num1 + ". Al valor Numero 1");
         Console.Write(mensaje);
         Console.ReadLine();
@@ -62,43 +63,11 @@ class Program
         Console.Write(mensaje);
         Console.ReadLine();
 
-        Console.WriteLine("> Mayor... : "+ num1 + ">" + num2 + ":" + (num1>num2)); //Mayor
-        Console.WriteLine("> Mayor o igual... : "+ num1 + ">=" + num2 + ":" + (num1>=num2)); //Mayor o igual
-        Console.WriteLine("> Menor... : "+ num1 + "<" + num2 + ":" + (num1<num2)); //Menor
-        Console.WriteLine("> Menor o igual... : "+ num1 + "<=" + num2 + ":" + (num1<=num2)); //Menor o igual
-        Console.WriteLine("> Igual... : "+ num1 + "==" + num2 + ":" + (num1==num2)); // igual que
-        Console.WriteLine("> Distinto... : "+ num1 + "!=" + num2 + ":" + (num1!=num2)); //ditinto
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        Console.WriteLine("> Mayor... : " + num1 + ">" + num2 + ":" + (num1 > num2)); //Mayor
+        Console.WriteLine("> Mayor o igual... : " + num1 + ">=" + num2 + ":" + (num1 >= num2)); //Mayor o igual
+        Console.WriteLine("> Menor... : " + num1 + "<" + num2 + ":" + (num1 < num2)); //Menor
+        Console.WriteLine("> Menor o igual... : " + num1 + "<=" + num2 + ":" + (num1 <= num2)); //Menor o igual
+        Console.WriteLine("> Igual... : " + num1 + "==" + num2 + ":" + (num1 == num2)); // igual que
+        Console.WriteLine("> Distinto... : " + num1 + "!=" + num2 + ":" + (num1 != num2)); //ditinto
     }
 }
