@@ -56,7 +56,7 @@ Los proyectos realizados en este PROYECTOSC# estan sacados de: _Aprende C# en un
 - El proyecto con el nombre: _``BoolOperadores``_ trata de los siguientes puntos: 
     - OBJETIVO 3: TIPOS DE DATOS BASICOS Y OPERADORES
 <br></br>
-- El proyecto con el nombre: _``TEXT``_ trata de los siguientes puntos: 
+- El proyecto con el nombre: _``CadenaTexto``_ trata de los siguientes puntos: 
     - OBJETIVO 4: CADENAS DE TEXTO
 <br></br>
 - El proyecto con el nombre: _``[NOMBRE A COMPLETAR]``_ trata de los siguientes puntos: 

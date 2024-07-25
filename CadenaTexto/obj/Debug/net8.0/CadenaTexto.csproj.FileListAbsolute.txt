@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\bin\Debug\net8.0\CadenaTexto.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\bin\Debug\net8.0\CadenaTexto.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\bin\Debug\net8.0\CadenaTexto.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\bin\Debug\net8.0\CadenaTexto.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\bin\Debug\net8.0\CadenaTexto.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\obj\Debug\net8.0\CadenaTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\obj\Debug\net8.0\CadenaTexto.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\obj\Debug\net8.0\CadenaTexto.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\obj\Debug\net8.0\CadenaTexto.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\obj\Debug\net8.0\CadenaTexto.sourcelink.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\obj\Debug\net8.0\CadenaTexto.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\obj\Debug\net8.0\refint\CadenaTexto.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\obj\Debug\net8.0\CadenaTexto.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\obj\Debug\net8.0\CadenaTexto.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\CadenaTexto\obj\Debug\net8.0\ref\CadenaTexto.dll
