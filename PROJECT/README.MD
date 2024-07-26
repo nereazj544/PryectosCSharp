@@ -6,4 +6,16 @@
 3. [Proyecto4](#)
 <br></br>
 ---
+
 # PROYECTO 1 - CALCULADORA
+Se utilizara lo siguiente:
+1. Escritura de texto por pantalla
+2. Lectura de informacion introducida por el/los users
+3. Controlar el flujo mediante un switch
+4. Bucle While
+5. Operador logico NOT (!)
+6. Operadores matematicos.
+
+> [!NOTE]
+>
+> _Este proyecto consiste en desarrollar el funcionamiento basico de una calculadora._
