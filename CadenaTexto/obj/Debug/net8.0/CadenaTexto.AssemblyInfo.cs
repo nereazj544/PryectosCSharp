@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadenaTexto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb30ffa44a43a0e2cd140522d7db642d7ec74dfd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e7c314a0a9adfa4ee224ec158f54edc7c21312")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadenaTexto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadenaTexto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

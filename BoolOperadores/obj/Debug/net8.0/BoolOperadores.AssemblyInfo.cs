@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoolOperadores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b48cb9fa2984814b0d8c8a4be3b44a70c08b5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e7c314a0a9adfa4ee224ec158f54edc7c21312")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoolOperadores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoolOperadores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

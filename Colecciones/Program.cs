@@ -80,33 +80,69 @@ class Program
         Console.WriteLine(listaCadena[5]);
         Console.WriteLine("==================================================================================");
 
+        Console.WriteLine("\n#### COLECCIONES: \"LISTAS: añador y insertar\" ####\n");
         List<int> Enteros = new List<int> { 13, 4, 2, 29 };
         Console.WriteLine("Tamaño de la lista: " + Enteros.Count);
-        Console.WriteLine("Lista: " + Enteros[0] + ", " + Enteros[1] + ", "+ Enteros[2] + ", "+ Enteros[3]);
+        Console.WriteLine("Lista: " + Enteros[0] + ", " + Enteros[1] + ", " + Enteros[2] + ", " + Enteros[3]);
 
         //Añadir numeros
         Enteros.Add(30);
         Enteros.Add(10);
         Console.WriteLine("Tamaño de la lista: " + Enteros.Count);
-        Console.WriteLine("Lista: " + Enteros[0] + ", " + Enteros[1] + ", "+ Enteros[2] + ", "+ Enteros[3] + Enteros[4] + ", " + Enteros[5]);
+        Console.WriteLine("Lista: " + Enteros[0] + ", " + Enteros[1] + ", " + Enteros[2] + ", " + Enteros[3] + Enteros[4] + ", " + Enteros[5]);
 
+        //añade un elemento en una posicion concreta
         Enteros.Insert(0, 0);
         Enteros.Insert(3, 999);
         Console.WriteLine("Tamaño de la lista: " + Enteros.Count);
-        Console.WriteLine("Lista: " + Enteros[0] + ", " + Enteros[1] + ", "+ Enteros[2] + ", "+ Enteros[3] + Enteros[4] + ", " + Enteros[5] + ", "  + Enteros[6] + ", " + Enteros[7]);
+        Console.WriteLine("Lista: " + Enteros[0] + ", " + Enteros[1] + ", " + Enteros[2] + ", " + Enteros[3] + Enteros[4] + ", " + Enteros[5] + ", " + Enteros[6] + ", " + Enteros[7]);
 
+        Console.WriteLine("\n#### COLECCIONES: \"LISTAS: Contains, RomeveAt, Remove y clear\" ####\n");
+
+        List<int> numeros2 = new List<int> { 1, 2, 3, 4, 5 };
+
+        Console.WriteLine("Numeros dentro de la lista: " + numeros2[0] + ", " + numeros2[1] + ", " + numeros2[2] + ", " + numeros2[3] + ", " + numeros2[4]);
+        Console.WriteLine("Numero de elementos: " + numeros2.Count);
+        Console.WriteLine("¿Contine la lista el 4? " + numeros2.Contains(4)); // comprueba si hay ese elemento dentro de la lista, si lo encuentra pone True sino False.
+
+        //Elimina el elmento que se encuentra en la posicion pasada por parametro
+        numeros2.RemoveAt(1);
+        Console.WriteLine("Numero de elementos: " + numeros2.Count);
+        Console.WriteLine("Numeros dentro de la lista: " + numeros2[0] + ", " + numeros2[1] + ", " + numeros2[2] + ", " + numeros2[3]);
+
+        //Añade
+        numeros2.Add(6);
+        Console.WriteLine("Numero de elementos: " + numeros2.Count);
+        Console.WriteLine("Numeros dentro de la lista: " + numeros2[0] + ", " + numeros2[1] + ", " + numeros2[2] + ", " + numeros2[3] + ", " + numeros2[4]);
+
+        //Elimina la primera 
+        numeros2.Remove(3);
+        Console.WriteLine("Numero de elementos: " + numeros2.Count);
+        Console.WriteLine("Numeros dentro de la lista: " + numeros2[0] + ", " + numeros2[1] + ", " + numeros2[2] + ", " + numeros2[3]);
+
+        //eliminar todos los elementos.
+        numeros2.Clear();
+        Console.WriteLine("Numero de elementos: " + numeros2.Count);
 
 
         Console.WriteLine();
 
+        Console.WriteLine("\n#### COLECCIONES: \"LISTAS: lista dentro de lista\" ####\n");
 
+        List<List<int>> ListInList = new List<List<int>> { new List<int> { 1, 2, 3 }, new List<int> { 10, 11, 12, 13 } };
+        
+        Console.WriteLine("Numeros de elemento de la primera lista: " + ListInList[0].Count);
+        Console.WriteLine("Numeros de la primera lista: " + ListInList[0][0] + "," + ListInList[0][1] + "," + ListInList[0][2]);
+        Console.WriteLine("Numeros de elemento de la segunda lista: " + ListInList[1].Count);
+        Console.WriteLine("Numeros de la segunda lista: " + ListInList[1][0] + "," + ListInList[1][1] + "," + ListInList[1][2] + "," + ListInList[1][3]);
 
+        //! Dependiendo de la lista que quieras has de expecificar que lista es la que quieres tomar. 
 
         Console.Write(mensaje);
         Console.ReadLine();
 
         Console.WriteLine("\n#### COLECCIONES: \"DICIONARIO\" ####\n");
-
+        
 
 
 
