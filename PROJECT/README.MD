@@ -60,8 +60,25 @@ Se utilizara lo siguiente:
 <br></br>
 
 # PROYECTO 4 - CALCULADORA EVOLUTIVA (V2)
+_Proyecto realizado el dia: [] de [] del []_
 
+Se utilizara lo siguiente:
+1. 
+
+> [!NOTE]
+>
+> _[INFORMACION]_
 
 <br></br>
 ---
 <br></br>
+
+# PROYECTO FINAL - AGENDA
+_Proyecto realizado el dia: [] de [] del []_
+
+Se utilizara lo siguiente:
+1. 
+
+> [!NOTE]
+>
+> _[INFORMACION]_
