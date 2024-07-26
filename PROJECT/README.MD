@@ -11,7 +11,7 @@
 
 # PROYECTO 1 - CALCULADORA
 
-Proyecto realizado el dia: 26 de julio del 2024
+_Proyecto realizado el dia: 26 de julio del 2024_
 
 Se utilizara lo siguiente:
 1. Escritura de texto por pantalla
@@ -31,14 +31,18 @@ Se utilizara lo siguiente:
 
 # PROYECTO 2 - CALCULADORA EVOLUTIVA
 
-_Proyecto realizado el dia: [] de [] del []_
+_Proyecto realizado el dia: 26 de julio del 2024_
 
 Se utilizara lo siguiente:
-1. 
+1. AÑADIR METODO DE SUMAR: Se encarga de sumar
+2. AÑADIR METODO DE RESTAR: Se encarga de restar
+3. AÑADIR METODO DE MULTIPLICAR: Se encarga de multiplicar
+4. AÑADIR METODO DE Dividir: Se encarga de divir
+5. AÑADIR METODO DE Calculadora: Se encarga de socilitar la opcion y ejecutar el bucle
 
 > [!NOTE]
 >
-> _[INFORMACION]_
+> _Este proyecto consiste en desarrollar el funcionamiento basico de una calculadora usando metodos._
 
 <br></br>
 ---

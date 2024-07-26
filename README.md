@@ -70,7 +70,7 @@ Los proyectos realizados en este PROYECTOSC# estan sacados de: _Aprende C# en un
     - OBJETIVO 7: BUCLES
 
 - El proyecto con el nombre: _``FUNCIONES``_ trata de los siguientes puntos: 
-    - OBJETIVO 8: FUNCIONES
+    - OBJETIVO 8: FUNCIONES (_METODOS_)
 
 <h3>Segunda parte</h3>
 

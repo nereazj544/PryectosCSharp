@@ -1,0 +1,8 @@
+== NOMBRES DE LOS METODOS Y LO QUE HAY QUE HACER ==
+
+1- AÑADIR METODO DE SUMAR: Se encarga de sumar
+2- AÑADIR METODO DE RESTAR: Se encarga de restar
+3- AÑADIR METODO DE MULTIPLICAR: Se encarga de multiplicar
+4- AÑADIR METODO DE Dividir: Se encarga de divir
+5- AÑADIR METODO DE Calculadora: Se encarga de socilitar la opcion y ejecutar el bucle
+
