@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FLUJO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f05467f89e62f1d62a86d5ca599e76ec6fbdcb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d200217bcc64fb0c55b7e89dc84425de0ef8c767")]
 [assembly: System.Reflection.AssemblyProductAttribute("FLUJO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FLUJO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

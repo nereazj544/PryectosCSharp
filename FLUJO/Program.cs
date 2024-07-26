@@ -66,21 +66,54 @@ class Program
         if (n1 > n2)
         {
             Console.WriteLine("> ¡Tu primer numero {0} es > que tu segundo numero {1}!\n", n1, n2);
-            
-        }else{
+
+        }
+        else
+        {
             if (n1 < n2)
             {
-            Console.WriteLine("> ¡Tu primer numero {0} es < que tu segundo numero {1}!\n", n1, n2);
-                
+                Console.WriteLine("> ¡Tu primer numero {0} es < que tu segundo numero {1}!\n", n1, n2);
+
             }
             else
             {
-                
-            Console.WriteLine("> ¡Tu primer numero {0} es igual que tu segundo numero {1}!\n", n1, n2);
+
+                Console.WriteLine("> ¡Tu primer numero {0} es igual que tu segundo numero {1}!\n", n1, n2);
             }
         }
 
+        Console.Write(mensaje);
+        Console.ReadLine();
+
         Console.WriteLine("\n#### CONTROL FLUJO DE UN PROGRAMA: \"SWITHC\" ####\n");
+
+        Console.WriteLine("> CODIGOS PROMOCIONALES: ORO, PLATA, BRONCE O PLATINO");
+        Console.WriteLine("> Introduce su codigo promocional para saber su descuento: ");
+        string cdg = Console.ReadLine().ToLower();
+
+        switch (cdg)
+        {
+            case("oro"):
+            Console.WriteLine("El descuento aplicado es del 50%");
+            break;
+            case("plata"):
+            Console.WriteLine("El descuento aplicado es del 25%");
+            break;
+            case("bronce"):
+            Console.WriteLine("El descuento aplicado es del 5%");
+            break;
+            case("platino"):
+            Console.WriteLine("El descuento aplicado es del 15%");
+            break;
+            default:
+                Console.WriteLine("> No has introducido un codigo promocional valido");
+
+                break;
+        }
+
+
+
+
 
 
 
