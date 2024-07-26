@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\bin\Debug\net8.0\OBJETOSBASICA.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\bin\Debug\net8.0\OBJETOSBASICA.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\bin\Debug\net8.0\OBJETOSBASICA.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\bin\Debug\net8.0\OBJETOSBASICA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\bin\Debug\net8.0\OBJETOSBASICA.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\obj\Debug\net8.0\OBJETOSBASICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\obj\Debug\net8.0\OBJETOSBASICA.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\obj\Debug\net8.0\OBJETOSBASICA.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\obj\Debug\net8.0\OBJETOSBASICA.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\obj\Debug\net8.0\OBJETOSBASICA.sourcelink.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\obj\Debug\net8.0\OBJETOSBASICA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\obj\Debug\net8.0\refint\OBJETOSBASICA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\obj\Debug\net8.0\OBJETOSBASICA.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\obj\Debug\net8.0\OBJETOSBASICA.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSBASICA\obj\Debug\net8.0\ref\OBJETOSBASICA.dll

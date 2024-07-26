@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\bin\Debug\net8.0\PROYECTO3-BIBLIOTECA.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\bin\Debug\net8.0\PROYECTO3-BIBLIOTECA.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\bin\Debug\net8.0\PROYECTO3-BIBLIOTECA.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\bin\Debug\net8.0\PROYECTO3-BIBLIOTECA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\bin\Debug\net8.0\PROYECTO3-BIBLIOTECA.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\obj\Debug\net8.0\PROYECTO3-BIBLIOTECA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\obj\Debug\net8.0\PROYECTO3-BIBLIOTECA.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\obj\Debug\net8.0\PROYECTO3-BIBLIOTECA.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\obj\Debug\net8.0\PROYECTO3-BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\obj\Debug\net8.0\PROYECTO3-BIBLIOTECA.sourcelink.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\obj\Debug\net8.0\PROYECTO3-BIBLIOTECA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\obj\Debug\net8.0\refint\PROYECTO3-BIBLIOTECA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\obj\Debug\net8.0\PROYECTO3-BIBLIOTECA.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\obj\Debug\net8.0\PROYECTO3-BIBLIOTECA.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO3-BIBLIOTECA\obj\Debug\net8.0\ref\PROYECTO3-BIBLIOTECA.dll

@@ -4,7 +4,10 @@
 1. [Concectos previos](#concectos-previos)  
 2. [Crear proyecto de C#](#crear-proyecto-en-c)
 3. [Contenidos de los proyectos](#contenidos-de-los-proyectos)
-4. [CARPETA: PROJECT](#carpeta-project)
+4. [Crear una clase](#crear-clase)
+5. [CARPETA: PROJECT](#carpeta-project)
+
+
 ----
 # Concectos previos
 
@@ -46,6 +49,15 @@ Un programa es un conjunto de instruciones o pasos a seguir que se le dan a un o
 - Ejecutar un programa: ``dotnet run`` o ``darle al ejecutador de visual stuido``
 
 - Crear los proyectos por separado
+
+# Crear clase
+
+- Se abre la terminar y se entra en la carpeta del proyecto donde se creara la clase
+- Con el comando: ``echo "namespace [carpeta raiz] {public class [nombre de la clase]{}}" > [nombre].cs``
+
+
+
+
 
 # Contenidos de los proyectos
 Los proyectos realizados en este PROYECTOSC# estan sacados de: _Aprende C# en un fin de semana._

@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\bin\Debug\net8.0\OBJETOSAVANZADO.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\bin\Debug\net8.0\OBJETOSAVANZADO.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\bin\Debug\net8.0\OBJETOSAVANZADO.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\bin\Debug\net8.0\OBJETOSAVANZADO.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\bin\Debug\net8.0\OBJETOSAVANZADO.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\obj\Debug\net8.0\OBJETOSAVANZADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\obj\Debug\net8.0\OBJETOSAVANZADO.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\obj\Debug\net8.0\OBJETOSAVANZADO.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\obj\Debug\net8.0\OBJETOSAVANZADO.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\obj\Debug\net8.0\OBJETOSAVANZADO.sourcelink.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\obj\Debug\net8.0\OBJETOSAVANZADO.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\obj\Debug\net8.0\refint\OBJETOSAVANZADO.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\obj\Debug\net8.0\OBJETOSAVANZADO.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\obj\Debug\net8.0\OBJETOSAVANZADO.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\OBJETOSAVANZADO\obj\Debug\net8.0\ref\OBJETOSAVANZADO.dll

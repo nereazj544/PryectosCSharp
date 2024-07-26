@@ -1,0 +1,32 @@
+== TODO: LA PARTE DE LAS CLASES ==
+
+1. Autor: Contendra la informacion sobre la persona que a escrito el libro.
+2. Libro: contendra la informacion sobre el libro.
+3. Biblioteca clase que contendra todos los libros que componen la biblioteca.
+
+
+== TODO: DETALLES DE LAS CLASES ==
+    1. CLASE AUTOR:
+        - Compuesta por:
+            - Nombre
+            - Apellidos
+        - Metodos:
+            - Mostrar por pantalla los atributos antes mencionados
+    2. CLASE LIBRO:
+        - Compueta por:
+            - Titulo
+            - ISBN
+            - AUTOR
+        - Metodos:
+            - AñadirAutor: almacena la informacion en el atributo Autor
+            - Mostrar: mostrar info de libro
+            - ObtenerTitulo: devolvera el titulo del libro
+    3. Biblioteca: 
+        - Atributos:
+            - ListaLibros
+        - Metodos:
+            - NumeroLibros: numero de la lista de los libros
+            - AñadirLibro
+            - BorrarLibro
+            - Mostar
+    
