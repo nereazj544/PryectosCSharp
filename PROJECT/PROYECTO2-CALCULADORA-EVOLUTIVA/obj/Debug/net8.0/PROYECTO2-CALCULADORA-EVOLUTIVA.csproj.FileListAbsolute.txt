@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\bin\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\bin\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\bin\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\bin\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\bin\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\obj\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\obj\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\obj\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\obj\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\obj\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.sourcelink.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\obj\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\obj\Debug\net8.0\refint\PROYECTO2-CALCULADORA-EVOLUTIVA.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\obj\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\obj\Debug\net8.0\PROYECTO2-CALCULADORA-EVOLUTIVA.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\PROYECTO2-CALCULADORA-EVOLUTIVA\obj\Debug\net8.0\ref\PROYECTO2-CALCULADORA-EVOLUTIVA.dll
