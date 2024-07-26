@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\bin\Debug\net8.0\BIBLIOTECA_P3.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\bin\Debug\net8.0\BIBLIOTECA_P3.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\bin\Debug\net8.0\BIBLIOTECA_P3.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\bin\Debug\net8.0\BIBLIOTECA_P3.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\bin\Debug\net8.0\BIBLIOTECA_P3.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\obj\Debug\net8.0\BIBLIOTECA_P3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\obj\Debug\net8.0\BIBLIOTECA_P3.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\obj\Debug\net8.0\BIBLIOTECA_P3.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\obj\Debug\net8.0\BIBLIOTECA_P3.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\obj\Debug\net8.0\BIBLIOTECA_P3.sourcelink.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\obj\Debug\net8.0\BIBLIOTECA_P3.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\obj\Debug\net8.0\refint\BIBLIOTECA_P3.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\obj\Debug\net8.0\BIBLIOTECA_P3.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\obj\Debug\net8.0\BIBLIOTECA_P3.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\PROJECT\BIBLIOTECA_P3\obj\Debug\net8.0\ref\BIBLIOTECA_P3.dll

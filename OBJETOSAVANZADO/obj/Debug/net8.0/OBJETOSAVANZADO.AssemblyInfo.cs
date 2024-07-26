@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OBJETOSAVANZADO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ac2d3fea6c5173b23fa88340a23b9f709965caf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd61a7d9f66c90317f2e2dd797f76c08cfa569e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("OBJETOSAVANZADO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OBJETOSAVANZADO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
