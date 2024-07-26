@@ -130,7 +130,7 @@ class Program
         Console.WriteLine("\n#### COLECCIONES: \"LISTAS: lista dentro de lista\" ####\n");
 
         List<List<int>> ListInList = new List<List<int>> { new List<int> { 1, 2, 3 }, new List<int> { 10, 11, 12, 13 } };
-        
+
         Console.WriteLine("Numeros de elemento de la primera lista: " + ListInList[0].Count);
         Console.WriteLine("Numeros de la primera lista: " + ListInList[0][0] + "," + ListInList[0][1] + "," + ListInList[0][2]);
         Console.WriteLine("Numeros de elemento de la segunda lista: " + ListInList[1].Count);
@@ -141,8 +141,36 @@ class Program
         Console.Write(mensaje);
         Console.ReadLine();
 
-        Console.WriteLine("\n#### COLECCIONES: \"DICIONARIO\" ####\n");
+        Console.WriteLine("\n#### COLECCIONES: \"DICCIONARIO\" ####\n");
+
+        Dictionary<string, string> dias = new Dictionary<string, string>();
+        //Esta representada por una clave (1) y por una variable (2)
+
+        //Añadir elementos al diccionario
+        dias.Add("Monday", "Lunes");
+        dias.Add("Tuesdat", "Martes");
+        dias.Add("Wednesday", "Miercoles");
+        dias.Add("Thursday", "Jueves");
+        dias.Add("Friday", "Viernes");
+        dias.Add("Sunday", "Sabado");
+        dias.Add("Saturday", "Domingo");
+        //Primer elemento es la CLAVE
+        //Segundo elemento es el VALOR
+
+        Console.WriteLine("Elementos dentro del diccionario: " + dias.Count);
+        Console.WriteLine("Sabado: " + dias["Sunday"]);
+
+        //Tanto el ContainsKey y el ContainsValue es lo mismo
+        Console.WriteLine("¿Esta Saturday?" + dias.ContainsKey("Saturday"));
+        dias.Remove("Saturday");
+        Console.WriteLine("¿Esta Saturday?" + dias.ContainsValue("Saturday")); 
         
+        Console.WriteLine("Elementos dentro del diccionario: " + dias.Count);
+        dias.Clear();
+        Console.WriteLine("Elementos dentro del diccionario: " + dias.Count);
+
+
+
 
 
 
