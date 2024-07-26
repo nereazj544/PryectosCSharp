@@ -91,15 +91,21 @@ Los proyectos realizados en este PROYECTOSC# estan sacados de: _Aprende C# en un
 
 # CARPETA: PROJECT
 <h3>PRIMERA PARTE</h3>
-- El proyecto con el nombre: _``PROYECTO1-CALCULADORA``_ trata de los siguientes puntos: 
-    - PROYECTO 1: CALCULADORA
 
-- El proyecto con el nombre: _``PROYECTO8-FUNCIONES``_ trata de los siguientes puntos: 
-    - PROYECTO 8: FUNCIONES
+# PROYECTO 1 - CALCULADORA
 
-- El proyecto con el nombre: _``PROYECTO2-CALCULADORAEV``_ trata de los siguientes puntos: 
-    - PROYECTO 2: CALCULADORA EVOLUTIVA
+<br></br>
+---
+<br></br>
+
+# PROYECTO 2 - CALCULADORA EVOLUTIVA
 
 <h3>SEGUNDA PARTE</h3>
-- El proyecto con el nombre: _``PROYECTO3-BIBLIOTECA``_ trata de los siguientes puntos: 
-    - PROYECTO 3: BIBLIOTECA
+
+# PROYECTO 4 - CALCULADORA EVOLUTIVA (V2)
+
+<br></br>
+---
+<br></br>
+
+# PROYECTO FINAL - AGENDA
