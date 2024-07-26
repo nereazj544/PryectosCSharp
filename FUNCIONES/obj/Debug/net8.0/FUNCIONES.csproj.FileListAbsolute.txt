@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\bin\Debug\net8.0\FUNCIONES.exe
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\bin\Debug\net8.0\FUNCIONES.deps.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\bin\Debug\net8.0\FUNCIONES.runtimeconfig.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\bin\Debug\net8.0\FUNCIONES.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\bin\Debug\net8.0\FUNCIONES.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\obj\Debug\net8.0\FUNCIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\obj\Debug\net8.0\FUNCIONES.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\obj\Debug\net8.0\FUNCIONES.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\obj\Debug\net8.0\FUNCIONES.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\obj\Debug\net8.0\FUNCIONES.sourcelink.json
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\obj\Debug\net8.0\FUNCIONES.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\obj\Debug\net8.0\refint\FUNCIONES.dll
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\obj\Debug\net8.0\FUNCIONES.pdb
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\obj\Debug\net8.0\FUNCIONES.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\Clon_Github\PryectosCSharp\FUNCIONES\obj\Debug\net8.0\ref\FUNCIONES.dll

@@ -74,8 +74,17 @@ Los proyectos realizados en este PROYECTOSC# estan sacados de: _Aprende C# en un
 
 <h3>Segunda parte</h3>
 
-- El proyecto con el nombre: _``[nombre]``_ trata de los siguientes puntos: 
+- El proyecto con el nombre: _``OBJETOSB``_ trata de los siguientes puntos: 
     - OBJETIVO 9: PROGRAMACION ORIENTADA A OBJETOS (BASICA)
+
+- El proyecto con el nombre: _``OBJETOSA``_ trata de los siguientes puntos: 
+    - OBJETIVO 10: PROGRAMACION ORIENTADA A OBJETOS (AVANZADA)
+
+- El proyecto con el nombre: _``EXCEPCIONES``_ trata de los siguientes puntos: 
+    - OBJETIVO 11: CONTROL DE EXCEPCIONES
+
+- El proyecto con el nombre: _``FICHEROS``_ trata de los siguientes puntos: 
+    - OBJETIVO 12: TRABAJANDO CON FICHEROS
 
 
 
