@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BUCLES")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd61a7d9f66c90317f2e2dd797f76c08cfa569e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dabdd2d5598f7cb7c810682d3410196e8d0bb2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BUCLES")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BUCLES")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
