@@ -1,5 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Runtime.Serialization.Formatters.Binary;
+using BIBLIOTECA_P3.Metodos;
+
 class Program
 {
     /* 
@@ -62,6 +65,7 @@ class Program
 
     private static void Opcion()
     {
+        Biblioteca b = new Biblioteca();
         System.Console.WriteLine("> El sistema necesita una opcion: ");
         int respuesta = Convert.ToInt32(Console.ReadLine());
         bool exit = false;
@@ -71,22 +75,23 @@ class Program
             {
                 case (1):
                     //Añadir Libro
-
+                    Añadir(b);
                     break;
 
                 case (2):
                     //Mostrar Lirbo
-
+                    System.Console.WriteLine("> El sistema pasara a mostrar los libros actuales: ");
+                    b.MostrarBiblioteca();
                     break;
 
                 case (3):
                     //Borrar Lirbo
-
+                    Borrar();
                     break;
 
                 case (4):
                     //¿Numero lista?
-
+                    Lista();
                     break;
 
                 case (5):
@@ -99,5 +104,46 @@ class Program
         Environment.Exit(0); // Termina la aplicación con código de salida 0
 
 
+    }
+
+ 
+
+    private static void Borrar()
+    {
+        Biblioteca b = new Biblioteca();
+        System.Console.WriteLine("> El sistema necesina que inserte: ");
+        System.Console.WriteLine("> Titulo a borrar: ");
+        b.BorrarLibro(Console.ReadLine());
+
+    }
+
+    private static void Lista()
+    {
+        System.Console.WriteLine("> El sistema pasara a mostrar la lista de libros actuales: ");
+        Biblioteca b = new Biblioteca();
+        System.Console.WriteLine(b.Lista());
+    }
+
+    static Biblioteca Añadir(Biblioteca b)
+    {
+        string titulo, isbn, autorn, autora;
+        System.Console.WriteLine("> El sistema necesina que inserte: ");
+        System.Console.WriteLine("Introduce el titulo del libro: ");
+        titulo = Console.ReadLine();
+        System.Console.WriteLine("> El sistema necesina que inserte: ");
+        System.Console.WriteLine("Introduce el ISBN del libro: ");
+        isbn = Console.ReadLine();
+        System.Console.WriteLine("> El sistema necesina que inserte: ");
+        System.Console.WriteLine("Introduce el nombre del autor del libro: ");
+        autorn = Console.ReadLine();
+        System.Console.WriteLine("> El sistema necesina que inserte: ");
+        System.Console.WriteLine("Introduce el(os) apellido(s) del autor del libro: ");
+        autora = Console.ReadLine();
+
+        Autores autores = new Autores(autorn, autora);
+        Libros libros = new Libros(isbn, titulo);
+        libros.AñadirAutores(autores);
+        b.AñadirLibros(libros);
+        return b;
     }
 }
